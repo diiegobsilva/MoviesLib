@@ -10,7 +10,7 @@ const Navbar = () => {
         <Link to="/">
           <BiCameraMovie /> MoviesLib
         </Link>
-      </h2>
+      </h2> 
       <form>
         <input
           type="text"
